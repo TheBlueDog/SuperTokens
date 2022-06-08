@@ -839,6 +839,102 @@
         "value": "#701a75",
         "type": "color"
       }
+    },
+    "IBM Plex Sans": {
+      "value": "IBM Plex Sans",
+      "type": "fontFamilies"
+    },
+    "Roboto": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "base": {
+      "value": "16",
+      "type": "other"
+    },
+    "text-xs": {
+      "value": "{base} * 0.75",
+      "type": "fontSizes"
+    },
+    "text-sm": {
+      "value": "{base} * 0.875",
+      "type": "fontSizes"
+    },
+    "text-base": {
+      "value": "{base}",
+      "type": "fontSizes"
+    },
+    "text-lg": {
+      "value": "{base} * 1.125",
+      "type": "fontSizes"
+    },
+    "text-xl": {
+      "value": "{base} * 1.25",
+      "type": "fontSizes"
+    },
+    "text-2xl": {
+      "value": "{base} * 1.5",
+      "type": "fontSizes"
+    },
+    "text-3xl": {
+      "value": "{base} * 1.875",
+      "type": "fontSizes"
+    },
+    "text-4xl": {
+      "value": "{base} * 2.25",
+      "type": "fontSizes"
+    },
+    "text-5xl": {
+      "value": "{base} * 3",
+      "type": "fontSizes"
+    },
+    "text-6xl": {
+      "value": "{base} * 3.75",
+      "type": "fontSizes"
+    },
+    "text-7xl": {
+      "value": "{base} * 4.5",
+      "type": "fontSizes"
+    },
+    "text-8xl": {
+      "value": "{base} * 6",
+      "type": "fontSizes"
+    },
+    "text-9xl": {
+      "value": "{base} * 8",
+      "type": "fontSizes"
+    },
+    "leading-3": {
+      "value": "{base} * 0.75",
+      "type": "lineHeights"
+    },
+    "leading-4": {
+      "value": "{base} * 1",
+      "type": "lineHeights"
+    },
+    "leading-5": {
+      "value": "{base} * 1.25",
+      "type": "lineHeights"
+    },
+    "leading-6": {
+      "value": "{base} * 1.5",
+      "type": "lineHeights"
+    },
+    "leading-7": {
+      "value": "{base} * 1.75",
+      "type": "lineHeights"
+    },
+    "leeading-8": {
+      "value": "{base} * 2",
+      "type": "lineHeights"
+    },
+    "leading-9": {
+      "value": "{base} * 2.25",
+      "type": "lineHeights"
+    },
+    "leading-10": {
+      "value": "{base} * 2.5",
+      "type": "lineHeights"
     }
   },
   "$themes": []
