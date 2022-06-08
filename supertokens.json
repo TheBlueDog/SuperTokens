@@ -935,6 +935,78 @@
     "leading-10": {
       "value": "{base} * 2.5",
       "type": "lineHeights"
+    },
+    "font-thin": {
+      "value": "100",
+      "type": "fontWeights"
+    },
+    "font-extralight": {
+      "value": "200",
+      "type": "fontWeights"
+    },
+    "font-light": {
+      "value": "300",
+      "type": "fontWeights"
+    },
+    "font-normal": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "font-medium": {
+      "value": "500",
+      "type": "fontWeights"
+    },
+    "font-semibold": {
+      "value": "600",
+      "type": "fontWeights"
+    },
+    "font-bold": {
+      "value": "700",
+      "type": "fontWeights"
+    },
+    "font-extrabold": {
+      "value": "800",
+      "type": "fontWeights"
+    },
+    "font-black": {
+      "value": "900",
+      "type": "fontWeights"
+    },
+    "rounded-none": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "rounded-sm": {
+      "value": "{base} * 0.125",
+      "type": "borderRadius"
+    },
+    "rounded": {
+      "value": "{base} * 0.25",
+      "type": "borderRadius"
+    },
+    "rounded-md": {
+      "value": "{base} * 0.375",
+      "type": "borderRadius"
+    },
+    "rounded-lg": {
+      "value": "{base} * 0.5",
+      "type": "borderRadius"
+    },
+    "rounded-xl": {
+      "value": "{base} * 0.75",
+      "type": "borderRadius"
+    },
+    "rounded-2xl": {
+      "value": "{base}",
+      "type": "borderRadius"
+    },
+    "rounded-3xl": {
+      "value": "{base} * 1.5",
+      "type": "borderRadius"
+    },
+    "rounded-full": {
+      "value": "9999",
+      "type": "borderRadius"
     }
   },
   "$themes": []
