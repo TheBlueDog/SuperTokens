@@ -924,7 +924,7 @@
       "value": "{base} * 1.75",
       "type": "lineHeights"
     },
-    "leeading-8": {
+    "leading-8": {
       "value": "{base} * 2",
       "type": "lineHeights"
     },
