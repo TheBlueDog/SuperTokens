@@ -1,5 +1,10 @@
 {
   "global": {
+    "28": {
+      "value": "{base} * 7",
+      "type": "spacing",
+      "description": "Padding and Margin"
+    },
     "Gray": {
       "50": {
         "value": "#f9fafb",
