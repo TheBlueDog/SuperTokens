@@ -1016,6 +1016,154 @@
     "rounded-full": {
       "value": "9999",
       "type": "borderRadius"
+    },
+    "w-0": {
+      "value": "0",
+      "type": "sizing",
+      "description": "Use for width and height"
+    },
+    "w-px": {
+      "value": "1",
+      "type": "sizing",
+      "description": "Use for width and height"
+    },
+    "w-0-5": {
+      "value": "{base} * 0.125",
+      "type": "sizing",
+      "description": "Use for width and height"
+    },
+    "w-1": {
+      "value": "{base} * 0.25",
+      "type": "sizing",
+      "description": "Use for width and height"
+    },
+    "w-1-5": {
+      "value": "{base} * 0.375",
+      "type": "sizing",
+      "description": "Use for width and height"
+    },
+    "w-2": {
+      "value": "{base} * 0.5",
+      "type": "sizing",
+      "description": "Use for width and height"
+    },
+    "w-2-5": {
+      "value": "{base} * 0.625",
+      "type": "sizing",
+      "description": "Width"
+    },
+    "w-3": {
+      "value": "{base} * 0.75",
+      "type": "sizing",
+      "description": "Width"
+    },
+    "w-3-5": {
+      "value": "{base} * 0.875",
+      "type": "sizing"
+    },
+    "w-4": {
+      "value": "{base}",
+      "type": "sizing"
+    },
+    "w-5": {
+      "value": "{base} * 1.25",
+      "type": "sizing"
+    },
+    "w-6": {
+      "value": "{base} * 1.5",
+      "type": "sizing"
+    },
+    "w-7": {
+      "value": "{base} * 1.75",
+      "type": "sizing"
+    },
+    "w-8": {
+      "value": "{base} * 2",
+      "type": "sizing"
+    },
+    "w-9": {
+      "value": "{base} * 2.25",
+      "type": "sizing"
+    },
+    "w-10": {
+      "value": "{base} * 2.5",
+      "type": "sizing"
+    },
+    "w-11": {
+      "value": "{base} * 2.75",
+      "type": "sizing"
+    },
+    "w-12": {
+      "value": "{base} * 3",
+      "type": "sizing"
+    },
+    "w-14": {
+      "value": "{base} * 3.5",
+      "type": "sizing"
+    },
+    "w-16": {
+      "value": "{base} * 4",
+      "type": "sizing"
+    },
+    "w-20": {
+      "value": "{base} * 5",
+      "type": "sizing"
+    },
+    "w-24": {
+      "value": "{base} * 6",
+      "type": "sizing"
+    },
+    "w-28": {
+      "value": "{base} * 7",
+      "type": "sizing"
+    },
+    "w-32": {
+      "value": "{base} * 8",
+      "type": "sizing"
+    },
+    "w-36": {
+      "value": "{base} * 9",
+      "type": "sizing"
+    },
+    "w-40": {
+      "value": "{base} * 10",
+      "type": "sizing"
+    },
+    "w-44": {
+      "value": "{base} * 11",
+      "type": "sizing"
+    },
+    "w-48": {
+      "value": "{base} * 12",
+      "type": "sizing"
+    },
+    "w-52": {
+      "value": "{base} * 13",
+      "type": "sizing"
+    },
+    "w-56": {
+      "value": "{base} * 14",
+      "type": "sizing"
+    },
+    "w-60": {
+      "value": "{base} * 15",
+      "type": "sizing"
+    },
+    "w-64": {
+      "value": "{base} * 16",
+      "type": "sizing"
+    },
+    "w-72": {
+      "value": "{base} * 18",
+      "type": "sizing"
+    },
+    "w-80": {
+      "value": "{base} * 20",
+      "type": "sizing"
+    },
+    "w-96": {
+      "value": "{base} * 24",
+      "type": "sizing"
     }
   },
   "$themes": []
